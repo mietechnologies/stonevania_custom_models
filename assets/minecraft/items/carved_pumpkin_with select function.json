@@ -11,35 +11,35 @@
         "when": "fancyhat",
         "model": {
           "type": "model",
-          "model": "template:item/fancyhat"
+          "model": "custom:item/fancyhat"
         }
       },
       {
         "when": "swordhead",
         "model": {
           "type": "model",
-          "model": "template:item/swordhead"
+          "model": "custom:item/swordhead"
         }
       },
       {
         "when": "glasses",
         "model": {
           "type": "model",
-          "model": "template:item/glasses"
+          "model": "custom:item/glasses"
         }
       },
       {
         "when": "glasses_down",
         "model": {
           "type": "model",
-          "model": "template:item/glasses_down"
+          "model": "custom:item/glasses_down"
         }
       },
       {
         "when": "moustache",
         "model": {
           "type": "model",
-          "model": "template:item/moustache"
+          "model": "custom:item/moustache"
         }
       }
     ]

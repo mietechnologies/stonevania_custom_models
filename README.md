@@ -39,7 +39,8 @@ Each custom model is assigned a unique number, used in the `/trigger` command. B
 
 If your name isn’t listed, add it here with the next available 100-number range.
 
-- **Izilac:** 1–99  
+- **Izilac:** 1–99
+- **Sho:** 100–199
 ## Contained Models
 
 The following models are currently included in the resource pack:  
@@ -50,3 +51,7 @@ The following models are currently included in the resource pack:
   - 3: Glasses  
   - 4: Glasses Down  
   - 5: Moustache  
+
+  - **Sho (100–199):**  
+  - 100: Casino Chip Gold 
+  - 101: Popcorn Box

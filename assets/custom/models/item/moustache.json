@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Izilac",
 	"textures": {
-		"0": "template:item/macy",
-		"particle": "template:item/macy"
+		"0": "custom:item/macy",
+		"particle": "custom:item/macy"
 	},
 	"elements": [
 		{

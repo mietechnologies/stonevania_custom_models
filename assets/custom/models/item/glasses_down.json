@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Izilac",
 	"texture_size": [4, 4],
 	"textures": {
-		"0": "template:item/frame",
-		"1": "template:item/lentille",
-		"particle": "template:item/frame"
+		"0": "custom:item/frame",
+		"1": "custom:item/lentille",
+		"particle": "custom:item/frame"
 	},
 	"elements": [
 		{
@@ -249,7 +249,7 @@
 			"scale": [4, 4, 4]
 		},
 		"head": {
-			"translation": [3.5, 28, -6.75],
+			"translation": [3.5, 26, -6.75],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {

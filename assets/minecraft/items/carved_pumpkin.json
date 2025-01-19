@@ -10,35 +10,35 @@
       {
         "model": {
           "type": "model",
-          "model": "template:item/fancyhat"
+          "model": "custom:item/fancyhat"
         },
         "threshold": 1
       },
       {
         "model": {
           "type": "model",
-          "model": "template:item/swordhead"
+          "model": "custom:item/swordhead"
         },
         "threshold": 2
       },
       {
         "model": {
           "type": "model",
-          "model": "template:item/glasses"
+          "model": "custom:item/glasses"
         },
         "threshold": 3
       },
       {
         "model": {
           "type": "model",
-          "model": "template:item/glasses_down"
+          "model": "custom:item/glasses_down"
         },
         "threshold": 4
       },
       {
         "model": {
           "type": "model",
-          "model": "template:item/moustache"
+          "model": "custom:item/moustache"
         },
         "threshold": 5
       }

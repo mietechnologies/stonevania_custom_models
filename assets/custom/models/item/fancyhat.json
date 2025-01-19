@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Izilac",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "template:item/fancyhat",
-		"particle": "template:item/fancyhat"
+		"0": "custom:item/fancyhat",
+		"particle": "custom:item/fancyhat"
 	},
 	"elements": [
 		{

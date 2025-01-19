@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Izilac",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "template:item/texture",
-		"1": "template:item/hands",
-		"2": "template:item/blade",
+		"0": "custom:item/texture",
+		"1": "custom:item/hands",
+		"2": "custom:item/blade",
 		"particle": "block/texture"
 	},
 	"elements": [
